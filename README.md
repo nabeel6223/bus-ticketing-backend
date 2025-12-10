@@ -6,7 +6,7 @@ It provides REST API endpoints for managing buses, bookings, and routes, enablin
 ## 🚀 Live Demo
 
 (If hosted, you can add your backend URL here, e.g., Render/Heroku endpoint)  
-API Base URL: https://your-backend-url.com/api
+API Base URL: https://bus-ticketing-backend-edln.onrender.com/api
 
 ## 📦 Repository
 
