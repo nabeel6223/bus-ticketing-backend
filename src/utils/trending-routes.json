@@ -1,0 +1,146 @@
+[
+  {
+    "from": "Delhi",
+    "to": "Jaipur",
+    "tripsInData": 7,
+    "popularity": "Extremely High"
+  },
+  {
+    "from": "Delhi",
+    "to": "Manali",
+    "tripsInData": 5,
+    "popularity": "Very High"
+  },
+  {
+    "from": "Delhi",
+    "to": "Agra",
+    "tripsInData": 5,
+    "popularity": "Very High"
+  },
+  {
+    "from": "Delhi",
+    "to": "Amritsar",
+    "tripsInData": 4,
+    "popularity": "Very High"
+  },
+  {
+    "from": "Delhi",
+    "to": "Lucknow",
+    "tripsInData": 4,
+    "popularity": "High"
+  },
+  {
+    "from": "Delhi",
+    "to": "Dehradun",
+    "tripsInData": 4,
+    "popularity": "High"
+  },
+  {
+    "from": "Delhi",
+    "to": "Haridwar",
+    "tripsInData": 3,
+    "popularity": "High"
+  },
+  {
+    "from": "Delhi",
+    "to": "Rishikesh",
+    "tripsInData": 3,
+    "popularity": "High"
+  },
+  {
+    "from": "Delhi",
+    "to": "Chandigarh",
+    "tripsInData": 3,
+    "popularity": "High"
+  },
+  {
+    "from": "Delhi",
+    "to": "Noida",
+    "tripsInData": 6,
+    "popularity": "High (short commute)"
+  },
+  {
+    "from": "Bangalore",
+    "to": "Hyderabad",
+    "tripsInData": 4,
+    "popularity": "Very High"
+  },
+  {
+    "from": "Hyderabad",
+    "to": "Bangalore",
+    "tripsInData": 4,
+    "popularity": "Very High"
+  },
+  {
+    "from": "Mumbai",
+    "to": "Pune",
+    "tripsInData": 4,
+    "popularity": "Extremely High"
+  },
+  {
+    "from": "Pune",
+    "to": "Mumbai",
+    "tripsInData": 3,
+    "popularity": "Extremely High"
+  },
+  {
+    "from": "Bangalore",
+    "to": "Chennai",
+    "tripsInData": 3,
+    "popularity": "Very High"
+  },
+  {
+    "from": "Chennai",
+    "to": "Bangalore",
+    "tripsInData": 3,
+    "popularity": "Very High"
+  },
+  {
+    "from": "Delhi",
+    "to": "Udaipur",
+    "tripsInData": 3,
+    "popularity": "High"
+  },
+  {
+    "from": "Mumbai",
+    "to": "Goa",
+    "tripsInData": 3,
+    "popularity": "Very High"
+  },
+  {
+    "from": "Pune",
+    "to": "Goa",
+    "tripsInData": 2,
+    "popularity": "High"
+  },
+  {
+    "from": "Chennai",
+    "to": "Coimbatore",
+    "tripsInData": 2,
+    "popularity": "High"
+  },
+  {
+    "from": "Delhi",
+    "to": "Dharamshala",
+    "tripsInData": 2,
+    "popularity": "Rising"
+  },
+  {
+    "from": "Lucknow",
+    "to": "Delhi",
+    "tripsInData": 3,
+    "popularity": "High"
+  },
+  {
+    "from": "Jaipur",
+    "to": "Delhi",
+    "tripsInData": 4,
+    "popularity": "Very High"
+  },
+  {
+    "from": "Ahmedabad",
+    "to": "Mumbai",
+    "tripsInData": 2,
+    "popularity": "High"
+  }
+]

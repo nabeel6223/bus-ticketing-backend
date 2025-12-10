@@ -1,0 +1,189 @@
+[
+  {
+    "bookingId": 1001,
+    "pnr": "TKT1001",
+    "busId": 25,
+    "name": "Mohd Nabeel",
+    "mobile": "7388332029",
+    "email": "mohd.18ben1024@abes.ac.in",
+    "passengerDetails": [
+      {
+        "name": "Mohd Nabeel",
+        "age": 26,
+        "gender": "male"
+      },
+      {
+        "name": "hkjhk",
+        "age": 29,
+        "gender": "female"
+      }
+    ],
+    "bookingDate": "2025-12-09T23:49:29.743Z",
+    "status": "CONFIRMED"
+  },
+  {
+    "bookingId": 1002,
+    "pnr": "TKT1002",
+    "busId": 25,
+    "name": "Mohd Nabeel",
+    "mobile": "7388332029",
+    "email": "mohd.18ben1024@abes.ac.in",
+    "passengerDetails": [
+      {
+        "name": "Mohd Nabeel",
+        "age": 26,
+        "gender": "male"
+      },
+      {
+        "name": "hkjhk",
+        "age": 29,
+        "gender": "female"
+      }
+    ],
+    "bookingDate": "2025-12-09T23:51:04.446Z",
+    "status": "CONFIRMED"
+  },
+  {
+    "bookingId": 1003,
+    "pnr": "TKT1003",
+    "busId": 25,
+    "name": "Mohd Nabeel",
+    "mobile": "7388332029",
+    "email": "mohd.18ben1024@abes.ac.in",
+    "seats": null,
+    "passengerDetails": [
+      {
+        "name": "Mohd Nabeel",
+        "age": 26,
+        "gender": "male"
+      },
+      {
+        "name": "hkjhk",
+        "age": 29,
+        "gender": "female"
+      }
+    ],
+    "bookingDate": "2025-12-09T23:52:33.089Z",
+    "status": "CONFIRMED"
+  },
+  {
+    "bookingId": 1004,
+    "pnr": "TKT1004",
+    "busId": 25,
+    "name": "Mohd Nabeel",
+    "mobile": "7388332029",
+    "email": "mohd.18ben1024@abes.ac.in",
+    "seats": null,
+    "passengerDetails": [
+      {
+        "name": "Mohd Nabeel",
+        "age": 26,
+        "gender": "male"
+      },
+      {
+        "name": "hkjhk",
+        "age": 29,
+        "gender": "female"
+      }
+    ],
+    "bookingDate": "2025-12-09T23:53:18.422Z",
+    "status": "CONFIRMED"
+  },
+  {
+    "bookingId": 1005,
+    "pnr": "TKT1005",
+    "busId": 25,
+    "name": "Mohd Nabeel",
+    "mobile": "7388332029",
+    "email": "mohd.18ben1024@abes.ac.in",
+    "seats": null,
+    "passengerDetails": [
+      {
+        "name": "Mohd Nabeel",
+        "age": 26,
+        "gender": "male"
+      },
+      {
+        "name": "hkjhk",
+        "age": 29,
+        "gender": "female"
+      }
+    ],
+    "bookingDate": "2025-12-09T23:54:35.387Z",
+    "status": "CONFIRMED"
+  },
+  {
+    "bookingId": 1006,
+    "pnr": "TKT1006",
+    "busId": 25,
+    "name": "Mohd Nabeel",
+    "mobile": "7388332029",
+    "email": "mohd.18ben1024@abes.ac.in",
+    "seats": [
+      11,
+      17
+    ],
+    "passengerDetails": [
+      {
+        "name": "Mohd Nabeel",
+        "age": 26,
+        "gender": "male"
+      },
+      {
+        "name": "hkjhk",
+        "age": 29,
+        "gender": "female"
+      }
+    ],
+    "bookingDate": "2025-12-09T23:58:42.646Z",
+    "status": "CONFIRMED"
+  },
+  {
+    "bookingId": 1007,
+    "pnr": "TKT1007",
+    "busId": 7,
+    "name": "Nabeel",
+    "mobile": "1234567890",
+    "email": "test@gmail.com",
+    "seats": null,
+    "passengerDetails": [
+      {
+        "name": "Ms Roxy",
+        "age": 12,
+        "gender": "female"
+      },
+      {
+        "name": "Mr Ajay",
+        "age": 49,
+        "gender": "male"
+      },
+      {
+        "name": "Mrs Ana",
+        "age": 46,
+        "gender": "female"
+      }
+    ],
+    "bookingDate": "2025-12-10T00:32:12.967Z",
+    "status": "CONFIRMED"
+  },
+  {
+    "bookingId": 1008,
+    "pnr": "TKT1008",
+    "busId": 10,
+    "name": "Mohd Nabeel",
+    "mobile": "7388332029",
+    "email": "mohd.18ben1024@abes.ac.in",
+    "seats": [
+      3
+    ],
+    "passengerDetails": [
+      {
+        "name": "test",
+        "age": 21,
+        "gender": "female"
+      }
+    ],
+    "bookingDate": "2025-12-10T00:35:43.093Z",
+    "status": "CONFIRMED"
+  }
+]
