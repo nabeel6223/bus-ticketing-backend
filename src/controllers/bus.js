@@ -47,7 +47,7 @@ export const getBusDetails = (req, res) => {
     } = req.query;
 
     const bus = busData.filter(bus => bus.id == id);
-
+    bus[0]['bookedSeats'] = [4, 9, 1, 10];
     return res.status(200).send({
             data: bus,
             error: false,
