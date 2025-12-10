@@ -51,7 +51,7 @@ npm install
 npm run dev
 ```
 
-The backend server will start on http://localhost:5000 (or your configured port in utils/env.config.js).
+The backend server will start on http://localhost:9090 (or your configured port in utils/env.config.js).
 
 🔗 API Endpoints
 
